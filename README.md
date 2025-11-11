@@ -66,7 +66,8 @@ yt-dlp is a feature-rich command-line audio/video downloader with support for [t
 * [CHANGES FROM YOUTUBE-DL](#changes-from-youtube-dl)
     * [New features](#new-features)
     * [Differences in default behavior](#differences-in-default-behavior)
-    * [Deprecated options](#deprecated-options)
+    * [Deprecated 
+options](#deprecated-options)
 * [CONTRIBUTING](CONTRIBUTING.md#contributing-to-yt-dlp)
     * [Opening an Issue](CONTRIBUTING.md#opening-an-issue)
     * [Developer Instructions](CONTRIBUTING.md#developer-instructions)
